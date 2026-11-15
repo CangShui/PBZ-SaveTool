@@ -1,6 +1,9 @@
 # 影之刃零 · 存档工具
 
 《影之刃零》（Phantom Blade Zero / ProjectPBZ）离线存档修改器。单文件 GUI，不注入进程，不联网。
+<img width="3839" height="2100" alt="image" src="https://github.com/user-attachments/assets/44f1118c-28e2-4478-99f0-493d61fe6392" />
+
+
 
 ## 一键功能
 
