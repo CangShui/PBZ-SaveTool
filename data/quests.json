@@ -1,0 +1,1008 @@
+[
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh1-NiLiuErShang",
+  "title": "逆流而上",
+  "order": 1,
+  "chapter": "第一章 逆流而上",
+  "loc_keys": [
+   "QuestStory_01_1"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh1-NiLiuErShang.MainCh1-NiLiuErShang_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh1-LinZhongShaJi",
+  "title": "林中杀机",
+  "order": 2,
+  "chapter": "第一章 逆流而上",
+  "loc_keys": [
+   "QuestStory_01_2"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh1-LinZhongShaJi.MainCh1-LinZhongShaJi_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh1-ShiXinCun",
+  "title": "失心村",
+  "order": 3,
+  "chapter": "第一章 逆流而上",
+  "loc_keys": [
+   "QuestStory_01_3"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh1-ShiXinCun.MainCh1-ShiXinCun_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh1-2-GangTieJuTa",
+  "title": "钢铁巨塔",
+  "order": 4,
+  "chapter": "第一章 逆流而上",
+  "loc_keys": [
+   "QuestStory_01_4"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh1-2-GangTieJuTa.MainCh1-2-GangTieJuTa_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh2-SiZhen",
+  "title": "死镇",
+  "order": 5,
+  "chapter": "第二章 林中血，镜中蛇",
+  "loc_keys": [
+   "QuestStory_02_1"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh2-SiZhen.MainCh2-SiZhen_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh2-SiDaSheWu",
+  "title": "四大蛇屋",
+  "order": 6,
+  "chapter": "第二章 林中血，镜中蛇",
+  "loc_keys": [
+   "QuestStory_02_3"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh2-SiDaSheWu.MainCh2-SiDaSheWu_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh2-XinZhiZongJi",
+  "title": "心之踪迹",
+  "order": 7,
+  "chapter": "第二章 林中血，镜中蛇",
+  "loc_keys": [
+   "QuestStory_02_2"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh2-XinZhiZongJi.MainCh2-XinZhiZongJi_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh3-DieXueZhiLu",
+  "title": "",
+  "order": 8,
+  "chapter": "第三章 英雄？罪人？",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh3-DieXueZhiLu.MainCh3-DieXueZhiLu_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh3-LongYuZuo",
+  "title": "断魂",
+  "order": 9,
+  "chapter": "第三章 英雄？罪人？",
+  "loc_keys": [
+   "QuestStory_03_4"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh3-LongYuZuo.MainCh3-LongYuZuo_C"
+ },
+ {
+  "category": "Main",
+  "category_zh": "主线",
+  "id": "MainCh3-PoJu",
+  "title": "破局",
+  "order": 10,
+  "chapter": "第三章 英雄？罪人？",
+  "loc_keys": [
+   "QuestStory_03_3"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Main/MainCh3-PoJu.MainCh3-PoJu_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "FengYuHuo",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_016"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/FengYuHuo.FengYuHuo_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "GuYouDeRenWu",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_014"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/GuYouDeRenWu.GuYouDeRenWu_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "HongFangZi",
+  "title": "红房子",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_010"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/HongFangZi.HongFangZi_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "HuXinMiMi",
+  "title": "湖心秘密",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_008"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/HuXinMiMi.HuXinMiMi_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "HuanShuPiPa",
+  "title": "幻术琵琶",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_006"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/HuanShuPiPa.HuanShuPiPa_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "JiGuanChuan",
+  "title": "机关船",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_011"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/JiGuanChuan.JiGuanChuan_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "KunLunSanJie",
+  "title": "昆仑三杰",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_003"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/KunLunSanJie.KunLunSanJie_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "QiShengHeLai",
+  "title": "泣声何来",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_001",
+   "QuestStory_001"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/QiShengHeLai.QiShengHeLai_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "RenOuZhongShu",
+  "title": "梦差幻境",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_007"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/RenOuZhongShu.RenOuZhongShu_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "SanMianHunDun",
+  "title": "三面混沌",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_017"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/SanMianHunDun.SanMianHunDun_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "XiGuShenChu",
+  "title": "溪谷深处",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_012"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/XiGuShenChu.XiGuShenChu_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "XiLouFeiXu",
+  "title": "浮华引",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_013"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/XiLouFeiXu.XiLouFeiXu_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "XuKongHuanXiang",
+  "title": "虚空幻象",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_005"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/XuKongHuanXiang.XuKongHuanXiang_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "XueMaiJueXing",
+  "title": "血脉觉醒",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_004"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/XueMaiJueXing.XueMaiJueXing_C"
+ },
+ {
+  "category": "Branch",
+  "category_zh": "支线",
+  "id": "XueRouHua",
+  "title": "血肉花",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestMaze_002"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Branch/XueRouHua.XueRouHua_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "BaiYing",
+  "title": "白影",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_007"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/BaiYing.BaiYing_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "JiaoTuSanKu",
+  "title": "狡兔三窟",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_002"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/JiaoTuSanKu.JiaoTuSanKu_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "LongZhu",
+  "title": "龙柱",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_001"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/LongZhu.LongZhu_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "MiaoShouKongKong",
+  "title": "妙手空空",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_003"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/MiaoShouKongKong.MiaoShouKongKong_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "QiXingJianZhen",
+  "title": "七星剑阵",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestStateEngineNoneQiXingJianZhen_1",
+   "QuestCollect_005"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/QiXingJianZhen.QiXingJianZhen_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "RongShuZhiXin",
+  "title": "榕树之心",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_004"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/RongShuZhiXin.RongShuZhiXin_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "ShaoZhu",
+  "title": "少主",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_010"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/ShaoZhu.ShaoZhu_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "WuShiZunZhu",
+  "title": "舞狮尊主",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_008"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/WuShiZunZhu.WuShiZunZhu_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "XianYin",
+  "title": "弦音",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_006"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/XianYin.XianYin_C"
+ },
+ {
+  "category": "Collect",
+  "category_zh": "收集",
+  "id": "ZhengYiMengChen",
+  "title": "正义蒙尘",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestCollect_009"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Collect/ZhengYiMengChen.ZhengYiMengChen_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_JianDunRenOu1",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_JianDunRenOu1.Tutorial_JianDunRenOu1_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_JianDunRenOu2",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_JianDunRenOu2.Tutorial_JianDunRenOu2_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_Longzhu1",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_Longzhu1.Tutorial_Longzhu1_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_Longzhu2",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_Longzhu2.Tutorial_Longzhu2_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_Longzhu3",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_Longzhu3.Tutorial_Longzhu3_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_Longzhu4",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_Longzhu4.Tutorial_Longzhu4_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_Attack",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "Quest_Attack_2",
+   "Quest_Attack_3",
+   "Quest_Attack_1",
+   "Quest_Attack_4"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_Attack.Tutorial_ZLGW_Attack_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_CavalryFight",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "Quest_Attack_2"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_CavalryFight.Tutorial_ZLGW_CavalryFight_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_CavalryShoot",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_CavalryShoot.Tutorial_ZLGW_CavalryShoot_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_Defend",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "Quest_Defend_3",
+   "Quest_Defend_2",
+   "Quest_Defend_1",
+   "Quest_Defend_4"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_Defend.Tutorial_ZLGW_Defend_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_Defend2",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "Quest_2"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_Defend2.Tutorial_ZLGW_Defend2_C"
+ },
+ {
+  "category": "Tutorial",
+  "category_zh": "教程",
+  "id": "Tutorial_ZLGW_Skill",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "Quest_SKill_4",
+   "Quest_SKill_6",
+   "Quest_SKill_7",
+   "Quest_SKill_5"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Tutorial/Tutorial_ZLGW_Skill.Tutorial_ZLGW_Skill_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "BaiShanMiWen",
+  "title": "白山秘闻",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_003"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/BaiShanMiWen.BaiShanMiWen_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "BaiTouKe",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_008",
+   "QuestRumor_Subtitle_008"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/BaiTouKe.BaiTouKe_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "BaiXue",
+  "title": "白雪儿",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_014"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/BaiXue.BaiXue_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "BuMieXiaDan",
+  "title": "不灭侠胆",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_032"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/BuMieXiaDan.BuMieXiaDan_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "CanCunZhiWu",
+  "title": "残存之物",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_017",
+   "QuestRumor_Subtitle_017"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/CanCunZhiWu.CanCunZhiWu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "CiMuXin",
+  "title": "慈母心",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_011"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/CiMuXin.CiMuXin_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "DaHuang",
+  "title": "大黄",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_009"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/DaHuang.DaHuang_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "DaoJianFoXin",
+  "title": "道剑佛心",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_030"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/DaoJianFoXin.DaoJianFoXin_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "DaoYiYouDao",
+  "title": "盗亦有道",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_029"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/DaoYiYouDao.DaoYiYouDao_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "DuanZhi",
+  "title": "断指",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_037",
+   "QuestRumor_Subtitle_037"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/DuanZhi.DuanZhi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "FangKuai",
+  "title": "方块",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_031"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/FangKuai.FangKuai_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "FengChe",
+  "title": "风车",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_023",
+   "QuestRumor_Subtitle_023"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/FengChe.FengChe_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "GeJueXieZi",
+  "title": "隔绝楔子",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_002"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/GeJueXieZi.GeJueXieZi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "GuiTu",
+  "title": "归途",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_005"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/GuiTu.GuiTu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "JianXiYiShi",
+  "title": "见习医师",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_026"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/JianXiYiShi.JianXiYiShi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "JiangHuRenShi",
+  "title": "横刀",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_019",
+   "Quest_Attack_15",
+   "Quest_SKill_17"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/JiangHuRenShi.JiangHuRenShi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "JiuSiFuShang",
+  "title": "救死扶伤",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestStateJiuSiFuShangJiuSiFuShang_1",
+   "QuestRumor_027"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/JiuSiFuShang.JiuSiFuShang_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "LanJiaGongZi",
+  "title": "兰家大少",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_006"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/LanJiaGongZi.LanJiaGongZi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "LiuYi",
+  "title": "英雄悲歌",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_020",
+   "Quest_Attack_15",
+   "Quest_01"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/LiuYi.LiuYi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "MoJiaoZhiNv",
+  "title": "魔教之女",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_015"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/MoJiaoZhiNv.MoJiaoZhiNv_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "NanYanZhiYin",
+  "title": "难言之隐",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_024"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/NanYanZhiYin.NanYanZhiYin_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "PiPaTanZou",
+  "title": "",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_007",
+   "QuestRumor_Subtitle_007"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/PiPaTanZou.PiPaTanZou_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "QingLiMenHu",
+  "title": "清理门户",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_025"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/QingLiMenHu.QingLiMenHu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "QuanXin",
+  "title": "拳心",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_036"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/QuanXin.QuanXin_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "RenOuMuXin",
+  "title": "人偶木心",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_028"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/RenOuMuXin.RenOuMuXin_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "RuMengQiZi",
+  "title": "入梦祈子",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_016"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/RuMengQiZi.RuMengQiZi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "TouPaiHuaDan",
+  "title": "头牌花旦",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_033"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/TouPaiHuaDan.TouPaiHuaDan_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "WuXiangWang",
+  "title": "勿相忘",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_034"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/WuXiangWang.WuXiangWang_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "XiangJianHeJi",
+  "title": "相煎何急",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_012"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/XiangJianHeJi.XiangJianHeJi_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "XiaoCui",
+  "title": "小翠",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestNodeXiaoCuiXiaoCui_2",
+   "QuestState_1",
+   "QuestState_14",
+   "QuestBranch_14"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/XiaoCui.XiaoCui_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "XiaoXue",
+  "title": "崇拜大侠的小雪",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_004"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/XiaoXue.XiaoXue_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "XiongFu",
+  "title": "凶斧",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_001"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/XiongFu.XiongFu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "YiBiZhiDao",
+  "title": "以彼之道",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_035"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/YiBiZhiDao.YiBiZhiDao_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "YiGeBuLiu",
+  "title": "一个不留",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_022"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/YiGeBuLiu.YiGeBuLiu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "YongShengDaoZhu",
+  "title": "赎罪名单",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestState_5",
+   "QuestState_0",
+   "QuestRumor_021"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/YongShengDaoZhu.YongShengDaoZhu_C"
+ },
+ {
+  "category": "Simple",
+  "category_zh": "传闻",
+  "id": "ZaiHuiXiongZhang",
+  "title": "再会兄长",
+  "order": 999,
+  "chapter": "",
+  "loc_keys": [
+   "QuestRumor_010"
+  ],
+  "path": "/Game/PBZstory/PBZQuest/Simple/ZaiHuiXiongZhang.ZaiHuiXiongZhang_C"
+ }
+]
